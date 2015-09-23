@@ -1,2 +1,2 @@
 # Technology-Roadmaps
-Management materials for you to create great technology roadmaps 
+Presentation materials for you to create great technology roadmaps 
